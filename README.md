@@ -4,6 +4,10 @@ The TreeML-Data consists of labelled point clouds of 40 scanning projects of str
 
 # Cite these articles if you used the codes and data:
 
+## Paper:
+
 Yazdi, H., Shu, Q., Rötzer, T. et al. A multilayered urban tree dataset of point clouds, quantitative structure and graph models. Sci Data 11, 28 (2024). https://doi.org/10.1038/s41597-023-02873-x
+
+## Dataset downloud:
 
 Yazdi, H., Shu, Q., Rötzer, T., Petzold, F., & Ludwig, F. TreeML-Data; a multidisciplinary and multilayer urban tree dataset, Figshare, https://doi.org/10.6084/m9.figshare.c.6788358.v1 (2023).
